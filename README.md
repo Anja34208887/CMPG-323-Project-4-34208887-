@@ -8,4 +8,4 @@ This project encapsulates RPA using UiPath automation cloud software to test pro
 
 ### Output
 ### Reference list
--[Reference lis]( [CMPG-323-Overview](https://github.com/Anja34208887/CMPG-323-overview---34208887.git))
+-[Reference list](https://github.com/Anja34208887/CMPG-323-overview---34208887.git)
