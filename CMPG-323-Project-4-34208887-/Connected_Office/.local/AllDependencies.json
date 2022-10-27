@@ -20624,8 +20624,8 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Connected Office Web Application User Automation Testing Revision 3",
-      "projectName": "Connected Office Web Application User Automation Testing Revision 3",
+      "projectUniqueName": "Connected_Office",
+      "projectName": "Connected_Office",
       "projectPath": "C:\\Users\\cobus\\Desktop\\Anja RPA\\CMPG-323-Project-4-34208887-\\CMPG-323-Project-4-34208887-\\Connected_Office\\.local",
       "packagesPath": "C:\\Users\\cobus\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\cobus\\Desktop\\Anja RPA\\CMPG-323-Project-4-34208887-\\CMPG-323-Project-4-34208887-\\Connected_Office\\.local"
