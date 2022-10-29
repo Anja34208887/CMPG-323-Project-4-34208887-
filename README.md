@@ -17,6 +17,10 @@ This project encapsulates RPA using UiPath automation cloud software to test pro
 
 The main branch is used to manage the project encapsulation. The Master branch is used to add local repository files to the remote repository.
 
+stretch tasks and tasks added to kanban guide:
+![image](https://user-images.githubusercontent.com/79098262/198854522-b56fd7ab-522b-4a96-80fe-1f29d33f4696.png)
+
+
 ## RPA Build Procedure:
 
 1. Create a new project in UiPath Studio
