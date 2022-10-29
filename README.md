@@ -5,13 +5,14 @@
 This project encapsulates RPA using UiPath automation cloud software to test processes.
 
 
-
-### Output
 ### Reference list
+
 - [Reference list](https://github.com/Anja34208887/CMPG-323-Project-4-34208887-/blob/main/Reference%20list)
 ![image](https://user-images.githubusercontent.com/79098262/198854573-240ca183-1167-4613-9519-1e736758fd51.png)
 
+
 ### Repo link
+
 - [Repo link](https://github.com/Anja34208887/CMPG-323-Project-4-34208887-)
 
 
@@ -19,8 +20,18 @@ This project encapsulates RPA using UiPath automation cloud software to test pro
 
 The main branch is used to manage the project encapsulation. The Master branch is used to add local repository files to the remote repository.
 
+
+## Scrum implementation:
+
+Please view the kanban guide for full information.
 stretch tasks and tasks added to kanban guide:
 ![image](https://user-images.githubusercontent.com/79098262/198854522-b56fd7ab-522b-4a96-80fe-1f29d33f4696.png)
+
+
+## Data access:
+
+I used the provided excel sheet test data to test the solution on the web application
+https://connectedoffice-devicemanagement.azurewebsites.net/
 
 
 ## RPA Build Procedure:
